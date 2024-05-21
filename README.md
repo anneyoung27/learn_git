@@ -1,6 +1,6 @@
 # Description: 
 - Learn how git works 
-- Learn how to git command in every task
+- Learn how to use git command in every task and conditions
 
 # Purpose:
 Learn Basic Git 
